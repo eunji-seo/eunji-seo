@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
 
-### Hi there 👋
+###🌈 Hi there 👋
 
 ## 🔭 web developer
 
@@ -12,7 +12,7 @@
 🌱 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)      
 🌱 ![GIT](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=GIT&logoColor=black)      
 
-<a href="https://blog.naver.com/toma1019"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+♣️ <a href="https://blog.naver.com/toma1019"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
   <!--
 
