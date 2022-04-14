@@ -15,7 +15,8 @@
 🌱 [![AMAZONAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=black)](github.com/Joowon0220/TODO-List)         
 #
 🌱 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)](github.com/Joowon0220/TODO-List)         
-
+#
+💬 https://blog.naver.com/toma1019
 <!--
 **eunji-seo/eunji-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
